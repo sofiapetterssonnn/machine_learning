@@ -1,3 +1,1 @@
 # machine_learning
-
-# hejhejhej!
